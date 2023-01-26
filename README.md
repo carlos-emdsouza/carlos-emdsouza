@@ -13,8 +13,3 @@
  
  <br>
  
-<div> 
-
-  ![Snake animation](https://github.com/carlos-emdsouza/carlos-emdsouza/blob/output/github-contribution-grid-snake.svg)
-
-</div>
